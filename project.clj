@@ -3,7 +3,7 @@
   :url "https://github.com/clojuredatascience/ch7-recommender-systems"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.6.0"]
+  :dependencies [[org.clojure/clojure "1.10.0"]
                  [org.apache.mahout/mahout-core "0.9" :exclusions [com.google.guava/guava]]
                  [org.apache.mahout/mahout-examples "0.9" :exclusions [com.google.guava/guava]]
                  [gorillalabs/sparkling "1.2.2"]
